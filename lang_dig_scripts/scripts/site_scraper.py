@@ -118,7 +118,7 @@ def github_cldr_scraper(**kwargs):
     return df
 
 
-def hyperlinks_scraper(**kwargs):
+def hyperlink_scraper(**kwargs):
     # soup, tag, filename, cls, cols
     data = get_data(**kwargs)
     stored_data = []
