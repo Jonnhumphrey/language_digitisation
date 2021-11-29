@@ -1,6 +1,6 @@
 import sys
 from site_scraper import scrape_sites
-from google_updater import init_google_sheet, open_google_sheet, update_google_sheets, update_cell, get_sheet
+from google_updater import update_google_sheets, update_cell, get_sheet
 from file_merger import group_pages
 import argparse
 
