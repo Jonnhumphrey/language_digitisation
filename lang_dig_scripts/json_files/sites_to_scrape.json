@@ -1,0 +1,91 @@
+{
+        "site1": {"scrape_func": "pandas_table_scraper",
+                  "filename": "iso.org.639-1_codes.csv",
+                  "url": "https://www.loc.gov/standards/iso639-2/php/code_list.php",
+                  "index": 1},
+
+        "site2": {"scrape_func": "pandas_table_scraper",
+                  "url": "https://cloud.google.com/vision/docs/languages#supported-langs",
+                  "filename": "cloud.google.supported-langs.csv",
+                  "index": 0},
+
+        "site3": {"scrape_func": "pandas_table_scraper",
+                  "url": "https://cloud.google.com/vision/docs/languages#experimental-langs",
+                  "filename": "cloud.google.experimental-langs.csv",
+                  "index": 1},
+
+        "site4": {"scrape_func": "table_scraper",
+                  "url": "https://cloud.google.com/vision/docs/languages#mapped-langs",
+                  "filename": "cloud.google.mapped-langs.csv",
+                  "index": 2},
+
+        "site5": {"scrape_func": "pandas_table_scraper",
+                  "url": "https://cloud.google.com/speech-to-text/docs/languages",
+                  "filename": "cloud.google.speech-to-text.csv",
+                  "index": 1},
+
+        "site6": {"scrape_func": "pandas_table_scraper",
+                  "url": "https://cloud.google.com/translate/docs/languages",
+                  "index": 0,
+                  "filename": "cloud.google.languages.csv"},
+
+        "site7": {"scrape_func": "pandas_table_scraper",
+                  "url": "https://cloud.google.com/text-to-speech/docs/voices",
+                  "index": 0,
+                  "filename": "cloud.google.text-to-speech.csv"},
+
+        "site8": {"scrape_func": "pandas_table_scraper",
+                  "url": "https://www.google.com/inputtools/help/languages.html",
+                  "index": 0,
+                  "filename": "google.inputtools.langs.csv"},
+
+        "site9": {"scrape_func": "table_scraper",
+                  "url": "https://www.microsoft.com/en-us/translator/languages/",
+                  "tag": "table",
+                  "filename": "microsoft.translator.languages.csv",
+                  "cls": "trans-feature-table ro-table-sticky-headers"},
+
+        "site10": {"scrape_func": "pandas_table_scraper",
+                   "url": "https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes",
+                   "index": 1,
+                   "filename": "wikipedia.list_of_iso_639_1_codes.csv"},
+
+        "site11": {"scrape_func": "hyperlink_scraper",
+                   "url": "https://github.com/unicode-org/cldr/tree/main/common/main",
+                   "tag": "a",
+                   "filename": "github-unicode-cldr-main.csv",
+                   "cls": "js-navigation-open Link--primary",
+                   "columns": ["locale"]},
+
+        "site12": {"scrape_func": "gboard_scraper",
+                    "url": "https://goo.gl/fMQ85U",
+                   "filename": "gboard.android.languages.csv",
+                   "cls": "zippy-wrapper", "columns": ["Languages"]},
+
+        "site13": {"scrape_func": "gboard_scraper",
+                   "url": "https://support.google.com/gboard/answer/6380730?visit_id=637711198216536723-3723235284&rd=1&co=GENIE.Platform%3DiOS&oco=0#languages&zippy=%2Csee-supported-languages",
+                   "filename": "gboard.ios.languages.csv",
+                   "cls": "zippy-wrapper", "columns": ["Languages"]},
+
+        "site14": {"scrape_func": "form_scraper",
+                   "url": "https://support.google.com/youtube/answer/6304325?hl=en",
+                   "filename": "youtube_languages.csv", "cls": "language-selector",
+                   "columns": ["Code", "Language Name"]},
+
+        "site15": {"scrape_func": "pypi_scraper",
+                   "url": "https://pypi.org/project/langdetect/",
+                   "filename": "pypi.languages.csv",
+                    "columns": ["Language Codes"]},
+
+        "site16": {"scrape_func": "github_cldr_scraper",
+                   "url": "https://github.com/unicode-org/cldr/blob/main/common/validity/language.xml",
+                   "tag": "table",
+                   "filename": "github_cldr_regular_codes.csv",
+                   "start": 17, "end": 620,
+                   "columns": ["Regular Codes"]},
+
+        "site17": {"scrape_func": "pandas_table_scraper",
+                    "url": "https://unicode.org/udhr/translations.html",
+                    "filename" : "unicode.udhr.translations.csv",
+                    "index": 0}
+}

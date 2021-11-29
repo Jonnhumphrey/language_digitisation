@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "language-digitization-project",
+  "private_key_id": "5c87586d60ad3ea50032da178f4e25a3a024bf7b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCYOY/ITyfQWAF0\nwIOOiWvrzqjEdB0wH+v4s4PpZ7dQvu4hMaBHU7KLG68yEBQEtojJZq1YtY8ami1P\n/WjbXB0HQeIV8Lu5lZfju1vfm/RMKyFzauxhyjS3Zz5pOcnXuXs4/bIcXT7VSBTc\n0VLWwQ+xVsuSoBTX8Kzbnnura1qbGbe8FyYh+w/vlANmScIw0s85Wj0QCp+Gnl4p\nURbLISLS4+982lPtY2mSboKP+kQ0fEhhFLd8XWHwI29fcmPlza7uBhzBLQn93kla\nVdspNIeuUVpwU6GJW8YVBERpdtn5SQ5ltD3Rl3zzeVPyk+Li8AU+9jGWoF79tjHk\nfPIPwPeHAgMBAAECggEAP3OC5N5lvJjqZnWWgLP0abLXMygpQHWV4TFGs2Q5i61C\nSlDKu+B95DEyej4scfh6FOU5LWhkkZShfZ2l9wWyzeMe78FMJqPdz525wn/ZuWQj\nCd6QUIS+K5Kb97WQVlzoqY1KEDun5LQqig6wpnaL6YJB0cjrV0VpcBPj/cR+XHab\nY2jj3s/zi7Jom0pU8CkpJ1tk8bTDgIlVxEbceBJno635rV/UE+znZJmuktFPXeig\nS1eUGBqpfs32GCiiobYANTPzP4Zps00ruPaD6WN5g6e4rc+eXsd3mV7/QYi042YI\nvvKWmSHzQgkhwwpq6E/NDkcBDNPD2nwyxIV6DVNb+QKBgQDTcR8aVT7hmZcr0PtF\nbsonjJCineaHKRY5nRjDd9V65Q8Ung7R7gWUGYfDmFrR0zbMT5gx+vpOhmtDmn3X\nKTygP5v4bfhP7DGzH5RTlrVHOaOqJnWo1Ybq76Q3Tr6NrDjwsGuuimZjoig0sIhc\n53Q1GnpEOGP2s2PEKgGc9tjPmQKBgQC4TcvkAxcWpNaLJP4Kx6CmSHx5jnC44hve\naqygH6gA18xq3u5Hx9620ZrB3iEdkVw3rBvsROlnIbJjzJOf4jDrClhtCq4bM0t7\nO/oI7zCCr6PvRv3zBQ3MDhiVqGBmnVaMm6n1rQ/WKJJTHynV1AYe0E5VNn58vtgR\n8uA33/L0HwKBgByJXuZB7QurnAB44wC69COkT/zyjKNfQzWhYy82ZCSC96cTsfJZ\nSn1zeKRIUrGQ7QtkDqloMxIYCDAGkMdSNHF4REeiJ+o5eXewYmdppqunNtSG/kg8\nEUpx71rbkNI0FTc+yDm1Sh5WS1DZJn5Lap6kJS5B4hPwoB1ggfk6Q4a5AoGBAJis\nyaRe8vdtIdUulcw0Rt642XSRDMv7cv6y+8HBt5jLK6m0d0u7RMHJrRvAeUpXKj9s\nMc1t4LPwdCi8ReaCp+dtMIdT+5rIyVSTALP6AQOhoHoNIz34B8/sNW10iDc5S4M7\nSHYeISpVfbGh9TQPaeqIwPtSI0IPjkqAGkHvIQIdAoGBAKgDxI1SAr7YoynQ9aHj\nLRUBvyUp7FCtXKKnsiLtF3zr8HMVcz2PhHrC4uwjIyIuwt30P7q1+w8Y9MIZNdy6\nrqHognWHiVLl77fdA2PUB3d+kw8df4+J1IZoE7xJMZOmyaltlm8KRq/QK0hKzugm\nJmQB2yj6TWMm988kKdX4HqKR\n-----END PRIVATE KEY-----\n",
+  "client_email": "language-digitisation@language-digitization-project.iam.gserviceaccount.com",
+  "client_id": "115121743790579791229",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/language-digitisation%40language-digitization-project.iam.gserviceaccount.com"
+}

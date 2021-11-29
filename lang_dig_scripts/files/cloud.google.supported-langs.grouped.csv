@@ -1,0 +1,61 @@
+Language,Language (English name),languageHints code,Script / notes,macroarea
+Afrikaans,Afrikaans,af,Latn,Africa
+shqip,Albanian,sq,Latn,Eurasia
+العربية,Arabic,ar,Arab; Modern Standard,
+Հայ,Armenian,hy,Armn,
+беларускі,Belorussian,be,Cyrl,Eurasia
+বাংলা,Bengali,bn,Beng,Eurasia
+български,Bulgarian,bg,Cyrl,Eurasia
+Català,Catalan,ca,Latn,Eurasia
+普通话,Chinese,zh,Hans/Hant,
+Hrvatski,Croatian,hr,Latn,
+Čeština,Czech,cs,Latn,Eurasia
+Dansk,Danish,da,Latn,Eurasia
+Nederlands,Dutch,nl,Latn,Eurasia
+English,English,en,Latn; American,Eurasia
+Eesti keel,Estonian,et,Latn,Eurasia
+Filipino,Filipino,fil (or tl),Latn,
+Suomi,Finnish,fi,Latn,Eurasia
+Français,French,fr,Latn; European,Eurasia
+Deutsch,German,de,Latn,Eurasia
+Ελληνικά,Greek,el,Grek,
+ગુજરાતી,Gujarati,gu,Gujr,Eurasia
+עברית,Hebrew,iw,Hebr,
+हिन्दी,Hindi,hi,Deva,Eurasia
+Magyar,Hungarian,hu,Latn,Eurasia
+Íslenska,Icelandic,is,Latn,Eurasia
+Bahasa Indonesia,Indonesian,id,Latn,Papunesia
+Italiano,Italian,it,Latn,Eurasia
+日本語,Japanese,ja,Jpan,Eurasia
+ಕನ್ನಡ,Kannada,kn,Knda,Eurasia
+ភាសាខ្មែរ,Khmer,km,Khmr,Eurasia
+한국어,Korean,ko,Kore,Eurasia
+ລາວ,Lao,lo,Laoo,Eurasia
+Latviešu,Latvian,lv,Latn,Eurasia
+Lietuvių,Lithuanian,lt,Latn,Eurasia
+Македонски,Macedonian,mk,Cyrl,Eurasia
+Bahasa Melayu,Malay,ms,Latn,Eurasia
+മലയാളം,Malayalam,ml,Mlym,Eurasia
+मराठी,Marathi,mr,Deva,Eurasia
+नेपाली,Nepali,ne,Deva,Eurasia
+Norsk,Norwegian,no,Latn; Bokmål,Eurasia
+فارسی,Persian,fa,Arab,Eurasia
+Polski,Polish,pl,Latn,Eurasia
+Português,Portuguese,pt,Latn; Brazilian,Eurasia
+ਪੰਜਾਬੀ,Punjabi,pa,Guru; Gurmukhi,
+Română,Romanian,ro,Latn,Eurasia
+Русский,Russian,ru,Cyrl,Eurasia
+Русский (старая орфография),Russian,ru-PETR1708,Cyrl; Old Orthography,Eurasia
+Српски,Serbian,sr,Cyrl &amp Latn,
+Српски (латиница),Serbian,sr-Latn,Latn,
+Slovenčina,Slovak,sk,Latn,Eurasia
+Slovenščina,Slovenian,sl,Latn,
+Español,Spanish,es,Latn; European,Eurasia
+Svenska,Swedish,sv,Latn,Eurasia
+தமிழ்,Tamil,ta,Taml,Eurasia
+తెలుగు,Telugu,te,Telu,Eurasia
+ไทย,Thai,th,Thai,Eurasia
+Türkçe,Turkish,tr,Latn,Eurasia
+Українська,Ukrainian,uk,Cyrl,Eurasia
+Tiếng Việt,Vietnamese,vi,Latn,Eurasia
+Yiddish,Yiddish,yi,Hebr,Eurasia

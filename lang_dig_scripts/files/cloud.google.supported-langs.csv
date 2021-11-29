@@ -1,0 +1,61 @@
+Language,Language (English name),languageHints code,Script / notes
+Afrikaans,Afrikaans,af,Latn
+shqip,Albanian,sq,Latn
+العربية,Arabic,ar,Arab; Modern Standard
+Հայ,Armenian,hy,Armn
+беларускі,Belorussian,be,Cyrl
+বাংলা,Bengali,bn,Beng
+български,Bulgarian,bg,Cyrl
+Català,Catalan,ca,Latn
+普通话,Chinese,zh,Hans/Hant
+Hrvatski,Croatian,hr,Latn
+Čeština,Czech,cs,Latn
+Dansk,Danish,da,Latn
+Nederlands,Dutch,nl,Latn
+English,English,en,Latn; American
+Eesti keel,Estonian,et,Latn
+Filipino,Filipino,fil (or tl),Latn
+Suomi,Finnish,fi,Latn
+Français,French,fr,Latn; European
+Deutsch,German,de,Latn
+Ελληνικά,Greek,el,Grek
+ગુજરાતી,Gujarati,gu,Gujr
+עברית,Hebrew,iw,Hebr
+हिन्दी,Hindi,hi,Deva
+Magyar,Hungarian,hu,Latn
+Íslenska,Icelandic,is,Latn
+Bahasa Indonesia,Indonesian,id,Latn
+Italiano,Italian,it,Latn
+日本語,Japanese,ja,Jpan
+ಕನ್ನಡ,Kannada,kn,Knda
+ភាសាខ្មែរ,Khmer,km,Khmr
+한국어,Korean,ko,Kore
+ລາວ,Lao,lo,Laoo
+Latviešu,Latvian,lv,Latn
+Lietuvių,Lithuanian,lt,Latn
+Македонски,Macedonian,mk,Cyrl
+Bahasa Melayu,Malay,ms,Latn
+മലയാളം,Malayalam,ml,Mlym
+मराठी,Marathi,mr,Deva
+नेपाली,Nepali,ne,Deva
+Norsk,Norwegian,no,Latn; Bokmål
+فارسی,Persian,fa,Arab
+Polski,Polish,pl,Latn
+Português,Portuguese,pt,Latn; Brazilian
+ਪੰਜਾਬੀ,Punjabi,pa,Guru; Gurmukhi
+Română,Romanian,ro,Latn
+Русский,Russian,ru,Cyrl
+Русский (старая орфография),Russian,ru-PETR1708,Cyrl; Old Orthography
+Српски,Serbian,sr,Cyrl &amp Latn
+Српски (латиница),Serbian,sr-Latn,Latn
+Slovenčina,Slovak,sk,Latn
+Slovenščina,Slovenian,sl,Latn
+Español,Spanish,es,Latn; European
+Svenska,Swedish,sv,Latn
+தமிழ்,Tamil,ta,Taml
+తెలుగు,Telugu,te,Telu
+ไทย,Thai,th,Thai
+Türkçe,Turkish,tr,Latn
+Українська,Ukrainian,uk,Cyrl
+Tiếng Việt,Vietnamese,vi,Latn
+Yiddish,Yiddish,yi,Hebr

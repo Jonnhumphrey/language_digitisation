@@ -1,0 +1,112 @@
+Language Name,Locale Code,Localized Name,macroarea
+Af-Soomaali,so_SO,Somali,Africa
+Afrikaans,af_ZA,Afrikaans,Africa
+Azərbaycan dili,az_AZ,Azerbaijani,Eurasia
+Bahasa Indonesia,id_ID,Indonesian,Papunesia
+Bahasa Melayu,ms_MY,Malay,Eurasia
+Basa Jawa,jv_ID,Javanese,Papunesia
+Bisaya,cx_PH,Cebuano,Papunesia
+Bosanski,bs_BA,Bosnian,Eurasia
+Brezhoneg,br_FR,Breton,Eurasia
+Català,ca_ES,Catalan,Eurasia
+Corsu,co_FR,Corsican,
+Cymraeg,cy_GB,Welsh,Eurasia
+Dansk,da_DK,Danish,Eurasia
+Deutsch,de_DE,German,Eurasia
+Eesti,et_EE,Estonian,Eurasia
+English (UK),en_GB,English (UK),
+English (US),en_US,English (US),
+Español,es_LA,Spanish,Eurasia
+Español (España),es_ES,Spanish (Spain),
+Esperanto,eo_EO,Esperanto,
+Euskara,eu_ES,Basque,Eurasia
+Filipino,tl_PH,Filipino,
+Français (Canada),fr_CA,French (Canada),
+Français (France),fr_FR,French (France),
+Frysk,fy_NL,Frisian,Eurasia
+Fula,ff_NG,Fula,
+Føroyskt,fo_FO,Faroese,Eurasia
+Gaeilge,ga_IE,Irish,Eurasia
+Galego,gl_ES,Galician,Eurasia
+Guarani,gn_PY,Guarani,South America
+Hausa,ha_NG,Hausa,Africa
+Hrvatski,hr_HR,Croatian,
+Ikinyarwanda,rw_RW,Kinyarwanda,Africa
+Italiano,it_IT,Italian,Eurasia
+Iñupiatun,ik_US,Inupiaq,
+Kiswahili,sw_KE,Swahili,Africa
+Kreyòl Ayisyen,ht_HT,Haitian Creole,North America
+Kurdî (Kurmancî),ku_TR,Kurdish (Kurmanji),
+Latviešu,lv_LV,Latvian,Eurasia
+Lietuvių,lt_LT,Lithuanian,Eurasia
+Magyar,hu_HU,Hungarian,Eurasia
+Malagasy,mg_MG,Malagasy,Africa
+Malti,mt_MT,Maltese,Eurasia
+Nederlands,nl_NL,Dutch,Eurasia
+Norsk (bokmål),nb_NO,Norwegian (bokmal),
+Norsk (nynorsk),nn_NO,Norwegian (nynorsk),
+O'zbek,uz_UZ,Uzbek,Eurasia
+Polski,pl_PL,Polish,Eurasia
+Português (Brasil),pt_BR,Portuguese (Brazil),
+Português (Portugal),pt_PT,Portuguese (Portugal),
+Română,ro_RO,Romanian,Eurasia
+Sardu,sc_IT,Sardinian,Eurasia
+Shona,sn_ZW,Shona,Africa
+Shqip,sq_AL,Albanian,Eurasia
+Slovenčina,sk_SK,Slovak,Eurasia
+Slovenščina,sl_SI,Slovenian,
+Suomi,fi_FI,Finnish,Eurasia
+Svenska,sv_SE,Swedish,Eurasia
+Tiếng Việt,vi_VN,Vietnamese,Eurasia
+Türkçe,tr_TR,Turkish,Eurasia
+Vlaams,nl_BE,Flemish,
+Zaza,zz_TR,Zaza,
+Íslenska,is_IS,Icelandic,Eurasia
+Čeština,cs_CZ,Czech,Eurasia
+ślōnskŏ gŏdka,sz_PL,Silesian,
+Ελληνικά,el_GR,Greek,
+Беларуская,be_BY,Belarusian,
+Български,bg_BG,Bulgarian,Eurasia
+Македонски,mk_MK,Macedonian,Eurasia
+Монгол,mn_MN,Mongolian,
+Русский,ru_RU,Russian,Eurasia
+Српски,sr_RS,Serbian,
+Татарча,tt_RU,Tatar,Eurasia
+Тоҷикӣ,tg_TJ,Tajik,Eurasia
+Українська,uk_UA,Ukrainian,Eurasia
+кыргызча,ky_KG,Kyrgyz,
+Қазақша,kk_KZ,Kazakh,Eurasia
+Հայերեն,hy_AM,Armenian,
+עברית,he_IL,Hebrew,
+اردو,ur_PK,Urdu,Eurasia
+العربية,ar_AR,Arabic,
+فارسی,fa_IR,Persian,Eurasia
+پښتو,ps_AF,Pashto,Eurasia
+کوردیی ناوەندی,cb_IQ,Sorani Kurdish,
+ܣܘܪܝܝܐ,sy_SY,Syriac,
+नेपाली,ne_NP,Nepali,Eurasia
+मराठी,mr_IN,Marathi,Eurasia
+हिन्दी,hi_IN,Hindi,Eurasia
+অসমীয়া,as_IN,Assamese,Eurasia
+বাংলা,bn_IN,Bengali,Eurasia
+ਪੰਜਾਬੀ,pa_IN,Punjabi,
+ગુજરાતી,gu_IN,Gujarati,Eurasia
+ଓଡ଼ିଆ,or_IN,Oriya,Eurasia
+தமிழ்,ta_IN,Tamil,Eurasia
+తెలుగు,te_IN,Telugu,Eurasia
+ಕನ್ನಡ,kn_IN,Kannada,Eurasia
+മലയാളം,ml_IN,Malayalam,Eurasia
+සිංහල,si_LK,Sinhala,Eurasia
+ภาษาไทย,th_TH,Thai,Eurasia
+ພາສາລາວ,lo_LA,Lao,Eurasia
+မြန်မာဘာသာ,my_MM,Burmese,Eurasia
+ქართული,ka_GE,Georgian,Eurasia
+አማርኛ,am_ET,Amharic,Africa
+ភាសាខ្មែរ,km_KH,Khmer,Eurasia
+ⵜⴰⵎⴰⵣⵉⵖⵜ,tz_MA,Tamazight,
+中文(台灣),zh_TW,Traditional Chinese (Taiwan),
+中文(简体),zh_CN,Simplified Chinese (China),
+中文(香港),zh_HK,Traditional Chinese (Hong Kong),
+日本語,ja_JP,Japanese,Eurasia
+日本語(関西),ja_KS,Japanese (Kansai),
+한국어,ko_KR,Korean,Eurasia

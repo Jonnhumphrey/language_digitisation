@@ -1,0 +1,757 @@
+Font face,Version,Styles,Characters,Glyphs,Unicode scripts
+Noto Mono,"1.00
+","Regular
+","875
+","897
+","Latin, Greek, Cyrillic
+"
+Noto Color Emoji,"2.017
+","Regular
+","
+","
+","Emoji
+"
+Noto Emoji,"1.05 uh
+","Regular
+","887
+","888
+","Emoji
+"
+Noto Kufi Arabic,"1.04
+","RegularBold
+","473
+","762 (regular)763 (bold)
+","Arabic (Kufic style)
+"
+Noto Naskh Arabic,"1.06
+","RegularBold
+","1122
+","1533 (regular)1540 (bold)
+","Arabic (Naskh style)
+"
+Noto Nastaliq Urdu,"1.02 uh
+","Regular
+","267
+","1133
+","Arabic (Nastaʿlīq style)
+"
+Noto Sans,"2.000
+","Normal, SemiCondensed, Condensed and ExtraCondensed in these weights: Thin, Extra-Light, Light, Regular, Medium, SemiBold, Bold, Extra-Bold and Black. Available in upright styles and italics.[18]
+","2785
+","3246
+","Latin, Greek, Cyrillic
+"
+Noto Sans Adlam,"2.000
+","Regular
+","96
+","371
+","Adlam
+"
+Noto Sans Adlam Unjoined,"2.000
+","Regular
+","96
+","99
+","Adlam
+"
+Noto Sans Anatolian Hieroglyphs,"2.000
+","Regular
+","588
+","589
+","Anatolian Hieroglyphs
+"
+Noto Sans Armenian,"2.03
+","RegularBold
+","97
+","98
+","Armenian
+"
+Noto Sans Avestan,"1.04 uh
+","Regular
+","70
+","73
+","Avestan
+"
+Noto Sans Balinese,"1.03 uh
+","Regular
+","130
+","182
+","Balinese
+"
+Noto Sans Bamum,"1.03 uh
+","Regular
+","662
+","661
+","Bamum
+"
+Noto Sans Batak,"1.05 uh
+","Regular
+","61
+","61
+","Batak
+"
+Noto Sans Bengali,"1.03
+","RegularBold
+","153
+","577
+","Bengali
+"
+Noto Sans Brahmi,"1.03 uh
+","Regular
+","113
+","182
+","Brahmi
+"
+Noto Sans Buginese,"1.05 uh
+","Regular
+","40
+","63
+","Buginese
+"
+Noto Sans Buhid,"1.03 uh
+","Regular
+","27
+","39
+","Buhid
+"
+Noto Sans Canadian Aboriginal,"1.03 uh
+","Regular
+","722
+","744
+","Canadian Aboriginal syllabics
+"
+Noto Sans Carian,"1.05 uh
+","Regular
+","54
+","53
+","Carian
+"
+Noto Sans Chakma,"2.000
+","Regular
+","94
+","193
+","Chakma
+"
+Noto Sans Cham,"1.02
+","RegularBold
+","119
+","127
+","Cham
+"
+Noto Sans Cherokee,"1.03 uh
+","Regular
+","90
+","89
+","Cherokee
+"
+Noto Sans CJK JP,"1.004
+","ThinLightDemiLightRegularMediumBoldBlack
+","44683
+","65535
+","CJK (Japanese style)HangulHiraganaKatakanaBopomofo
+"
+Noto Sans CJK KR,"1.004
+","ThinLightDemiLightRegularMediumBoldBlack
+","44683
+","65535
+","CJK (Korean style)HangulHiraganaKatakanaBopomofo
+"
+Noto Sans CJK SC,"1.004
+","ThinLightDemiLightRegularMediumBoldBlack
+","44683
+","65535
+","CJK (Simplified Chinese style)HangulHiraganaKatakanaBopomofo
+"
+Noto Sans CJK TC,"1.004
+","ThinLightDemiLightRegularMediumBoldBlack
+","44683
+","65535
+","CJK (Traditional Chinese style)HangulHiraganaKatakanaBopomofo
+"
+Noto Sans Coptic,"1.03 uh
+","Regular
+","159
+","192
+","Coptic
+"
+Noto Sans Cuneiform,"1.05 uh
+","Regular
+","987
+","986
+","Cuneiform
+"
+Noto Sans Cypriot,"1.03 uh
+","Regular
+","60
+","59
+","Cypriot
+"
+Noto Sans Deseret,"1.02 uh
+","Regular
+","85
+","84
+","Deseret
+"
+Noto Sans Devanagari,"1.06
+","RegularBold
+","265
+","901 (regular)906 (bold)
+","Devanagari
+"
+Noto Sans Egyptian Hieroglyphs,"
+","Normal, SemiCondensed, Condensed and ExtraCondensed in these weights: Thin, Extra-Light, Light, Regular, Medium, SemiBold, Bold, Extra-Bold and Black. Available in upright styles and italics.[19]
+","
+","
+","Latin, Greek and Cyrillic
+"
+Noto Sans Ethiopic,"1.04 uh
+","Regular
+","1076
+","1075
+","Egyptian hieroglyphs
+"
+Noto Sans Georgian,"1.08
+","RegularBold
+","500
+","559
+","Ethiopic
+"
+Noto Sans Glagolitic,"1.06
+","RegularBold
+","127
+","127
+","Georgian
+"
+Noto Sans Gothic,"1.04 uh
+","Regular
+","99
+","98
+","Glagolitic
+"
+Noto Sans Gujarati,"1.03 uh
+","Regular
+","38
+","43
+","Gothic
+"
+Noto Sans Gurmukhi,"1.03
+","RegularBold
+","155
+","741 (regular)740 (bold)
+","Gujarati
+"
+Noto Sans Hanunoo,"1.03
+","RegularBold
+","151
+","301
+","Gurmukhi
+"
+Noto Sans Hebrew,"1.04 uh
+","Regular
+","28
+","43
+","Hanunoo
+"
+Noto Sans Imperial Aramaic,"1.04
+","RegularBold
+","144
+","155
+","Hebrew
+"
+Noto Sans Inscriptional Pahlavi,"1.03 uh
+","Regular
+","36
+","35
+","Imperial Aramaic
+"
+Noto Sans Inscriptional Parthian,"1.02 uh
+","Regular
+","32
+","34
+","Inscriptional Pahlavi
+"
+Noto Sans Javanese,"1.03 uh
+","Regular
+","35
+","45
+","Inscriptional Parthian
+"
+Noto Sans Kaithi,"1.06 uh
+","Regular
+","100
+","186
+","Javanese
+"
+Noto Sans Kannada,"1.05 uh
+","Regular
+","101
+","314
+","Kaithi
+"
+Noto Sans Kayah Li,"1.04
+","RegularBold
+","147
+","451
+","Kannada
+"
+Noto Sans Kharoshthi,"1.02 uh
+","Regular
+","53
+","54
+","Kayah Li
+"
+Noto Sans Khmer,"1.03 uh
+","Regular
+","70
+","133
+","Kharoshthi
+"
+Noto Sans Lao,"1.03
+","RegularBold
+","192
+","265
+","Khmer
+"
+Noto Sans Lepcha,"1.03
+","RegularBold
+","120
+","166
+","Lao
+"
+Noto Sans Limbu,"1.03 uh
+","Regular
+","80
+","1471
+","Lepcha
+"
+Noto Sans Linear B,"1.05 uh
+","Regular
+","73
+","73
+","Limbu
+"
+Noto Sans Lisu,"1.04 uh
+","Regular
+","273
+","272
+","Linear B
+"
+Noto Sans Lycian,"1.03 uh
+","Regular
+","55
+","54
+","Lisu
+"
+Noto Sans Lydian,"1.04 uh
+","Regular
+","34
+","33
+","Lycian
+"
+Noto Sans Malayalam,"1.03 uh
+","Regular
+","32
+","31
+","Lydian
+"
+Noto Sans Mandaic,"1.04
+","RegularBold
+","161
+","318
+","Malayalam
+"
+Noto Sans Meetei Mayek,"1.02 uh
+","Regular
+","35
+","128
+","Mandaic
+"
+Noto Sans Mongolian,"1.04 uh
+","Regular
+","84
+","91
+","Meetei Mayek
+"
+Noto Sans Mono CJK JP,"1.04 uh
+","Regular
+","200
+","1511
+","Mongolian script
+"
+Noto Sans Mono CJK KR,"
+","Normal, SemiCondensed, Condensed and ExtraCondensed in these weights: Thin, Extra-Light, Light, Regular, Medium, SemiBold, Bold, Extra-Bold and Black. Only available in upright styles. No italics.[20]
+","
+","
+","Latin, Greek and Cyrillic
+"
+Noto Sans Mono CJK SC,"1.004
+","RegularBold
+","44683
+","65535
+","CJK (Japanese style)HangulHiraganaKatakanaBopomofo
+"
+Noto Sans Mono CJK TC,"1.004
+","RegularBold
+","44683
+","65535
+","CJK (Korean style)HangulHiraganaKatakanaBopomofo
+"
+Noto Sans Myanmar,"1.004
+","RegularBold
+","44683
+","65535
+","CJK (Simplified Chinese style)HangulHiraganaKatakanaBopomofo
+"
+Noto Sans Nabataean,"1.004
+","RegularBold
+","44683
+","65535
+","CJK (Traditional Chinese style)HangulHiraganaKatakanaBopomofo
+"
+Noto Sans New Tai Lue,"1.10
+","RegularBold
+","198
+","540 (regular)541 (bold)
+","Myanmar
+"
+Noto Sans NKo,"2.000
+","Regular
+","43
+","45
+","Nabataean
+"
+Noto Sans Ogham,"1.05 uh
+","Regular
+","88
+","91
+","New Tai Lue
+"
+Noto Sans Ol Chiki,"1.02 uh
+","Regular
+","76
+","174
+","NKo
+"
+Noto Sans Old Italic,"1.04 uh
+","Regular
+","34
+","33
+","Ogham
+"
+Noto Sans Old North Arabian,"1.03 uh
+","Regular
+","53
+","52
+","Ol Chiki
+"
+Noto Sans Old Persian,"1.02 uh
+","Regular
+","40
+","39
+","Old Italic
+"
+Noto Sans Old South Arabian,"2.000
+","Regular
+","36
+","37
+","Old North Arabian
+"
+Noto Sans Old Turkic,"1.04 uh
+","Regular
+","55
+","54
+","Old Persian
+"
+Noto Sans Oriya,"1.03 uh
+","Regular
+","37
+","36
+","Old South Arabian
+"
+Noto Sans Osage,"1.02 uh
+","Regular
+","78
+","77
+","Old Turkic
+"
+Noto Sans Osmanya,"1.01
+","RegularBold
+","151
+","671
+","Oriya
+"
+Noto Sans Phags Pa,"1.900
+","Regular
+","80
+","84
+","Osage
+"
+Noto Sans Phoenician,"1.03 uh
+","Regular
+","45
+","44
+","Osmanya
+"
+Noto Sans Rejang,"1.03 uh
+","Regular
+","97
+","382
+","Phags-pa
+"
+Noto Sans Runic,"1.04 uh
+","Regular
+","34
+","33
+","Phoenician
+"
+Noto Sans Samaritan,"1.05 uh
+","Regular
+","42
+","41
+","Rejang
+"
+Noto Sans Saurashtra,"1.02 uh
+","Regular
+","86
+","85
+","Runic
+"
+Noto Sans Shavian,"1.03 uh
+","Regular
+","67
+","67
+","Samaritan
+"
+Noto Sans Sinhala,"1.04 uh
+","Regular
+","89
+","93
+","Saurashtra
+"
+Noto Sans Sundanese,"1.03 uh
+","Regular
+","53
+","52
+","Shavian
+"
+Noto Sans Syloti Nagri,"1.03
+","RegularBold
+","140
+","614
+","Sinhala
+"
+Noto Sans Symbols,"1.05 uh
+","Regular
+","77
+","79
+","Sundanese
+"
+Noto Sans Syriac Eastern,"1.04 uh
+","Regular
+","68
+","85
+","Syloti Nagri
+"
+Noto Sans Syriac Estrangela,"1.09 uh
+","Regular
+","5151
+","5356
+","Symbols, including Braille
+"
+Noto Sans Syriac Western,"1.04 uh
+","Regular
+","151
+","319
+","Syriac (Eastern style)
+"
+Noto Sans Tagalog,"1.04 uh
+","Regular
+","151
+","306
+","Syriac (Estrangela style)
+"
+Noto Sans Tagbanwa,"1.04 uh
+","Regular
+","151
+","313
+","Syriac (Western style)
+"
+Noto Sans Tai Le,"1.03 uh
+","Regular
+","27
+","26
+","Tagalog
+"
+Noto Sans Tai Tham,"1.04 uh
+","Regular
+","25
+","24
+","Tagbanwa
+"
+Noto Sans Tai Viet,"1.04 uh
+","Regular
+","61
+","66
+","Tai Le
+"
+Noto Sans Tamil,"1.04 uh
+","Regular
+","137
+","232
+","Tai Tham
+"
+Noto Sans Telugu,"1.03 uh
+","Regular
+","82
+","81
+","Tai Viet
+"
+Noto Sans Thaana,"1.07
+","RegularBold
+","139
+","215 (regular)216 (bold)
+","Tamil
+"
+Noto Sans Thai,"1.05
+","RegularBold
+","154
+","762
+","Telugu
+"
+Noto Sans Tibetan,"1.02
+","RegularBold
+","91
+","95
+","Thaana
+"
+Noto Sans Tifinagh,"1.04
+","RegularBold
+","100
+","108
+","Thai
+"
+Noto Sans Ugaritic,"1.01
+","RegularBold
+","221
+","1296
+","Tibetan
+"
+Noto Sans Vai,"1.05 uh
+","Regular
+","72
+","101
+","Tifinagh
+"
+Noto Sans Yi,"1.02 uh
+","Regular
+","36
+","35
+","Ugaritic
+"
+Noto Serif,"1.02 uh
+","Regular
+","305
+","304
+","Vai
+"
+Noto Serif Ahom,"1.02 uh
+","Regular
+","1251
+","1251
+","Yi
+"
+Noto Serif Armenian,"2.000
+","Normal, SemiCondensed, Condensed and ExtraCondensed in these weights: Thin, Extra-Light, Light, Regular, Medium, SemiBold, Bold, Extra-Bold and Black. Available in upright styles and italics.[21]
+","2789
+","3243
+","Latin, Greek, Cyrillic
+"
+Noto Serif Bengali,"2.001
+","Regular
+","61
+","79
+","Ahom
+"
+Noto Serif CJK JP,"2.03
+","RegularBold
+","97
+","98
+","Armenian
+"
+Noto Serif CJK KR,"1.01
+","RegularBold
+","154
+","591
+","Bengali
+"
+Noto Serif CJK SC,"1.000
+","ExtraLightLightRegularMediumSemiBoldBoldBlack
+","43027
+","65535
+","CJK (Japanese style)HangulHiraganaKatakanaBopomofo
+"
+Noto Serif CJK TC,"1.000
+","ExtraLightLightRegularMediumSemiBoldBoldBlack
+","43027
+","65535
+","CJK (Korean style)HangulHiraganaKatakanaBopomofo
+"
+Noto Serif Devanagari,"1.000
+","ExtraLightLightRegularMediumSemiBoldBoldBlack
+","43027
+","65535
+","CJK (Simplified Chinese style)HangulHiraganaKatakanaBopomofo
+"
+Noto Serif Georgian,"1.000
+","ExtraLightLightRegularMediumSemiBoldBoldBlack
+","43027
+","65535
+","CJK (Traditional Chinese style)HangulHiraganaKatakanaBopomofo
+"
+Noto Serif Gujarati,"1.01
+","RegularBold
+","265
+","716 (regular)715 (bold)
+","Devanagari
+"
+Noto Serif Kannada,"
+","Normal, SemiCondensed, Condensed and ExtraCondensed in these weights: Thin, Extra-Light, Light, Regular, Medium, SemiBold, Bold, Extra-Bold and Black. Available in upright styles and italics.[22]
+","
+","
+","Latin, Greek and Cyrillic
+"
+Noto Serif Khmer,"1.06
+","RegularBold
+","127
+","127
+","Georgian
+"
+Noto Serif Lao,"1.01
+","RegularBold
+","155
+","476
+","Gujarati
+"
+Noto Serif Malayalam,"1.01
+","RegularBold
+","148
+","439
+","Kannada
+"
+Noto Serif Tamil,"1.03
+","RegularBold
+","186
+","378
+","Khmer
+"
+Noto Serif Telugu,"1.03
+","RegularBold
+","120
+","166
+","Lao
+"
+Noto Serif Thai,"1.01
+","RegularBold
+","163
+","240
+","Malayalam
+"
