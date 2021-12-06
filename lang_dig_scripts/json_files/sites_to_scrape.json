@@ -87,5 +87,10 @@
         "site17": {"scrape_func": "pandas_table_scraper",
                     "url": "https://unicode.org/udhr/translations.html",
                     "filename" : "unicode.udhr.translations.csv",
-                    "index": 0}
+                    "index": 0},
+
+        "site18":  {"scrape_func":  "pandas_table_scraper",
+                    "url": "https://en.wikipedia.org/wiki/ISO_639_macrolanguage",
+                    "filename" : "wikipedia_iso639_macrolanguages.csv",
+                    "index" : 2}
 }

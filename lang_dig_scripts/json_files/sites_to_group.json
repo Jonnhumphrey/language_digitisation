@@ -112,5 +112,21 @@
                    "column_name_with_group": "name",
                    "columns_to_drop": ["ascii_name", "description", "id", "genus_pk", "iso_codes",
                        "jsondata", "latitude", "longitude", "markup_description", "name",
-                       "pk", "samples_100", "samples_200"]}
+                       "pk", "samples_100", "samples_200"]},
+
+        "site14": {"file_to_group_with": "languages_combined.csv",
+                    "file_without_group": "unicode.udhr.translations.csv",
+                    "file_to_csv": "unicode.udhr.translations.grouped.csv",
+                    "column_name_without_group": "Language",
+                    "column_name_with_group": "name",
+                    "columns_to_drop": ["description","genus_pk","id","iso_codes","jsondata","latitude","longitude",
+                      "markup_description","name","pk","samples_100","samples_200"]},
+
+        "site15": {"file_to_group_with": "wikipedia.list_of_iso_639_1_codes_grouped.csv",
+                    "file_without_group" : "wikipedia_iso639_macrolanguages.csv",
+                    "file_to_csv" : "wikipedia_iso639_macrolanguages_combined.csv",
+                    "column_name_without_group" : "ISO 639-3",
+                    "column_name_with_group" : "639-3",
+                    "columns_to_drop" : []
+        }
     }
