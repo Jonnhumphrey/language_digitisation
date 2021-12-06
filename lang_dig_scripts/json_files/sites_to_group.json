@@ -126,7 +126,7 @@
                     "file_without_group" : "wikipedia_iso639_macrolanguages.csv",
                     "file_to_csv" : "wikipedia_iso639_macrolanguages_combined.csv",
                     "column_name_without_group" : "ISO 639-3",
-                    "column_name_with_group" : "639-3",
-                    "columns_to_drop" : []
+                    "column_name_with_group" : "639-2/T",
+                    "columns_to_drop" : ["Name of macrolanguage","Language family","Language family.1","ISO language name"]
         }
     }
